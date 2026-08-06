@@ -1,6 +1,6 @@
 # Awesome-Domain-Monitoring-Platform
 
-# Top Domain Monitoring Platform Tools Ecosystem
+## Top Domain Monitoring Platform Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Domain Intelligence, Passive DNS, WHOIS History, Certificate Transparency, Subdomain Monitoring & Attack Surface Visibility*  
