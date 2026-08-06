@@ -38,28 +38,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Cert Spotter](https://github.com/SSLMate/certspotter)**  
-  Lightweight, robust open-source Certificate Transparency log monitor that alerts you when SSL/TLS certificates are issued for your domains — no database required.
-
-- **[PassiveDNS](https://github.com/gamelinux/passivedns)**  
-  Network sniffer that logs DNS server replies for building your own passive DNS database, useful for incident response and historical DNS analysis.
-
-- **[Domain Admin](https://github.com/dromara/domain-admin)**  
-  Open-source domain and SSL certificate monitoring platform with expiration alerts, multi-channel notifications, Let’s Encrypt support, and multi-language UI.
-
-- **[domain-monitor](https://github.com/nwesterhausen/domain-monitor)**  
-  Self-hosted WHOIS monitoring server that tracks registration changes and expiration dates for specified domains with efficient caching to respect WHOIS rate limits.
-
-- **[ct-exposer & Certificate Transparency tools](https://github.com/chris408/ct-exposer)**  
-  OSINT tools that discover subdomains by searching public Certificate Transparency logs (crt.sh and others).
-
-- **[Subfinder / Amass / subdomain discovery suites](https://github.com/projectdiscovery/subfinder)**  
+- **[Subfinder / Amass / subdomain discovery suites](https://github.com/projectdiscovery/subfinder)**   [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers)
   Widely used open-source passive and active subdomain enumeration frameworks that aggregate Certificate Transparency, passive DNS, and other public sources.
 
-- **[DNS OSINT & recon tools](https://github.com/DelorianCS/dns-osint)**  
+- **[Cert Spotter](https://github.com/SSLMate/certspotter)**   [![GitHub stars](https://img.shields.io/github/stars/SSLMate/certspotter?style=social&color=white)](https://github.com/SSLMate/certspotter/stargazers)
+  Lightweight, robust open-source Certificate Transparency log monitor that alerts you when SSL/TLS certificates are issued for your domains — no database required.
+
+- **[PassiveDNS](https://github.com/gamelinux/passivedns)**   [![GitHub stars](https://img.shields.io/github/stars/gamelinux/passivedns?style=social&color=white)](https://github.com/gamelinux/passivedns/stargazers)
+  Network sniffer that logs DNS server replies for building your own passive DNS database, useful for incident response and historical DNS analysis.
+
+- **[Domain Admin](https://github.com/dromara/domain-admin)**   [![GitHub stars](https://img.shields.io/github/stars/dromara/domain-admin?style=social&color=white)](https://github.com/dromara/domain-admin/stargazers)
+  Open-source domain and SSL certificate monitoring platform with expiration alerts, multi-channel notifications, Let’s Encrypt support, and multi-language UI.
+
+- **[domain-monitor](https://github.com/nwesterhausen/domain-monitor)**   [![GitHub stars](https://img.shields.io/github/stars/nwesterhausen/domain-monitor?style=social&color=white)](https://github.com/nwesterhausen/domain-monitor/stargazers)
+  Self-hosted WHOIS monitoring server that tracks registration changes and expiration dates for specified domains with efficient caching to respect WHOIS rate limits.
+
+- **[ct-exposer & Certificate Transparency tools](https://github.com/chris408/ct-exposer)**   [![GitHub stars](https://img.shields.io/github/stars/chris408/ct-exposer?style=social&color=white)](https://github.com/chris408/ct-exposer/stargazers)
+  OSINT tools that discover subdomains by searching public Certificate Transparency logs (crt.sh and others).
+
+- **[DNS OSINT & recon tools](https://github.com/DelorianCS/dns-osint)**   [![GitHub stars](https://img.shields.io/github/stars/DelorianCS/dns-osint?style=social&color=white)](https://github.com/DelorianCS/dns-osint/stargazers)
   Lightweight passive DNS/subdomain discovery, reverse DNS, and record lookup utilities that require no API keys.
 
-- **[Self-hosted domain & certificate monitors](https://github.com/neok0/domain-monitor)**  
+- **[Self-hosted domain & certificate monitors](https://github.com/neok0/domain-monitor)**   [![GitHub stars](https://img.shields.io/github/stars/neok0/domain-monitor?style=social&color=white)](https://github.com/neok0/domain-monitor/stargazers)
   Free domain and certificate monitoring systems that watch for newly registered look-alike domains and certificate issuance events (often via certstream).
 
 ### Additional Strong Open-Source Options
