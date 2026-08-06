@@ -1,6 +1,6 @@
 ![Banner](./assets/banner.svg)
 
-# Awesome-Domain-Monitoring-Platform
+# Awesome Domain Monitoring Platform - Comprehensive OSINT & SaaS Tools
 
 ## Top Domain Monitoring Platform Tools Ecosystem
 
@@ -8,7 +8,7 @@
 *Focused on Domain Intelligence, Passive DNS, WHOIS History, Certificate Transparency, Subdomain Monitoring & Attack Surface Visibility*  
 **Last updated: August 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Domain Monitoring**. These tools help security teams, researchers, and brand protectors track domain registrations, DNS changes, certificate issuance, historical WHOIS/passive DNS data, subdomains, and potential threats across the internet.
+Discover the best open-source and SaaS solutions for domain intelligence. This repository tracks notable **SaaS platforms** and **open-source projects** for **Domain Monitoring**. These tools help security teams, researchers, and brand protectors track domain registrations, DNS changes, certificate issuance, historical WHOIS/passive DNS data, subdomains, and potential threats across the internet.
 
 **Examples** include DomainTools, SecurityTrails, RiskIQ PassiveTotal, Censys, WhoisXML API, Spyse, ViewDNS, Detectify, Netcraft, DomainIQ, ZeroFox, SOCRadar, Shodan Enterprise, and Red Sift (the category leaders).
 
