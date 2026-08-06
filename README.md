@@ -38,6 +38,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
+- **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)
+  Fast and customisable vulnerability scanner based on simple YAML based DSL.
+
+- **[Amass](https://github.com/owasp-amass/amass)** [![GitHub stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers)
+  In-depth attack surface mapping and asset discovery.
+
 - **[Subfinder / Amass / subdomain discovery suites](https://github.com/projectdiscovery/subfinder)**   [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers)
   Widely used open-source passive and active subdomain enumeration frameworks that aggregate Certificate Transparency, passive DNS, and other public sources.
 
