@@ -16,13 +16,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Product | Description | Pricing | Free Tier Limit | Company Size |
 |---------|-------------|---------|-----------------|--------------|
@@ -38,7 +38,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[DomainIQ](https://www.domainiq.com/)** | Domain research and monitoring tools providing WHOIS, reverse WHOIS, and related intelligence. | Starts at $24.95/mo | Basic free lookups (Limited) | $10M+ |
 | **[ZeroFox](https://www.zerofox.com/)**, **[SOCRadar](https://socradar.io/)**, **[Shodan](https://www.shodan.io/)**, **[Red Sift](https://redsift.com/)** | Broader digital risk protection, threat intelligence, internet device search, and domain security platforms that include strong domain monitoring capabilities. | Enterprise Pricing / Shodan from $69/mo | Shodan: Limited queries/mo | $10M+ |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)
   Fast and customisable vulnerability scanner based on simple YAML based DSL.
