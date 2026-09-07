@@ -17,17 +17,17 @@ Discover the best open-source and SaaS solutions for domain intelligence. This r
 
 **Examples** include DomainTools, SecurityTrails, RiskIQ PassiveTotal, Censys, WhoisXML API, Spyse, ViewDNS, Detectify, Netcraft, DomainIQ, ZeroFox, SOCRadar, Shodan Enterprise, and Red Sift (the category leaders).
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted Certificate Transparency monitoring, passive DNS collection, subdomain discovery, WHOIS tracking, and domain intelligence tooling — ideal for security researchers, SOC teams, and organizations that want control without enterprise pricing.
+**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted Certificate Transparency monitoring, passive DNS collection, subdomain discovery, WHOIS tracking, and domain intelligence tooling â€” ideal for security researchers, SOC teams, and organizations that want control without enterprise pricing.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## 📑 Table of Contents
+## ðŸ“‘ Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## ☁️ SaaS/Hosted Platforms
+## â˜ï¸ SaaS/Hosted Platforms
 
 | Product | Description | Pricing | Free Tier Limit | Company Size |
 |---------|-------------|---------|-----------------|--------------|
@@ -41,9 +41,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Detectify](https://detectify.com/)** | External attack surface management and continuous security scanning platform that includes domain and subdomain monitoring. | Starts at $289/mo | 14-day trial (No free tier) | $10M+ |
 | **[Netcraft](https://www.netcraft.com/)** | Long-standing internet services company offering phishing detection, domain monitoring, and digital risk protection. | Enterprise Pricing | N/A | $10M+ |
 | **[DomainIQ](https://www.domainiq.com/)** | Domain research and monitoring tools providing WHOIS, reverse WHOIS, and related intelligence. | Starts at $24.95/mo | Basic free lookups (Limited) | $10M+ |
-| **[ZeroFox](https://www.zerofox.com/)**, **[SOCRadar](https://socradar.io/)**, **[Shodan](https://www.shodan.io/)**, **[Red Sift](https://redsift.com/)** | Broader digital risk protection, threat intelligence, internet device search, and domain security platforms that include strong domain monitoring capabilities. | Enterprise Pricing / Shodan from $69/mo | Shodan: Limited queries/mo | $10M+ |
+| **[ZeroFox](https://www.zerofox.com/)**, **[SOCRadar](https://socradar.io/)**, **[Shodan](https://www.shodan.io/)**, **[Red Sift](https://redsift.com/)** | Broader digital risk protection, threat intelligence, internet device search, and domain security platforms that include strong domain monitoring capabilities. | Enterprise Pricing / Shodan from $69/mo | Shodan: Limited queries/mo | $10M+ |
+| **[Vacato](https://vacato.io)** | RDAP domain watchlist that alerts on email/Telegram when a watched name looks available. Alerts only — not a drop-catcher or registrar. | Free forever (10 domains); Pro from $7/mo | 10 domains / 5-min checks | Indie |
 
-## 💻 Open-Source GitHub Projects
+## ðŸ’» Open-Source GitHub Projects
 
 - **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)
   Fast and customisable vulnerability scanner based on simple YAML based DSL.
@@ -55,13 +56,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Widely used open-source passive and active subdomain enumeration frameworks that aggregate Certificate Transparency, passive DNS, and other public sources.
 
 - **[Cert Spotter](https://github.com/SSLMate/certspotter)**   [![GitHub stars](https://img.shields.io/github/stars/SSLMate/certspotter?style=social&color=white)](https://github.com/SSLMate/certspotter/stargazers)
-  Lightweight, robust open-source Certificate Transparency log monitor that alerts you when SSL/TLS certificates are issued for your domains — no database required.
+  Lightweight, robust open-source Certificate Transparency log monitor that alerts you when SSL/TLS certificates are issued for your domains â€” no database required.
 
 - **[PassiveDNS](https://github.com/gamelinux/passivedns)**   [![GitHub stars](https://img.shields.io/github/stars/gamelinux/passivedns?style=social&color=white)](https://github.com/gamelinux/passivedns/stargazers)
   Network sniffer that logs DNS server replies for building your own passive DNS database, useful for incident response and historical DNS analysis.
 
 - **[Domain Admin](https://github.com/dromara/domain-admin)**   [![GitHub stars](https://img.shields.io/github/stars/dromara/domain-admin?style=social&color=white)](https://github.com/dromara/domain-admin/stargazers)
-  Open-source domain and SSL certificate monitoring platform with expiration alerts, multi-channel notifications, Let’s Encrypt support, and multi-language UI.
+  Open-source domain and SSL certificate monitoring platform with expiration alerts, multi-channel notifications, Letâ€™s Encrypt support, and multi-language UI.
 
 - **[domain-monitor](https://github.com/nwesterhausen/domain-monitor)**   [![GitHub stars](https://img.shields.io/github/stars/nwesterhausen/domain-monitor?style=social&color=white)](https://github.com/nwesterhausen/domain-monitor/stargazers)
   Self-hosted WHOIS monitoring server that tracks registration changes and expiration dates for specified domains with efficient caching to respect WHOIS rate limits.
@@ -89,14 +90,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+3. Include: name, link, 1â€“2 sentence description, and whether it's SaaS or open-source.
 4. Submit PR with a short explanation.
 
 Star the repo if you find it useful!
 
 ## Disclaimer
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
+- This is a **community-curated** list â€” not exhaustive and not an endorsement.
 - Domain monitoring and OSINT tools interact with public data sources and WHOIS servers. Respect rate limits, terms of service, and applicable laws. Aggressive querying can result in blocks or legal issues.
 - Open-source tools provide powerful capabilities but typically lack the historical depth, global coverage, and polished alerting of commercial platforms. Validate findings and maintain your own infrastructure responsibly.
 
@@ -106,7 +107,7 @@ Star the repo if you find it useful!
 Let's make domain monitoring and internet asset visibility more open and accessible.
 
 
-## 🌟 Star History
+## ðŸŒŸ Star History
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Domain-Monitoring-Platform&type=date&legend=bottom-right">
 <picture>
