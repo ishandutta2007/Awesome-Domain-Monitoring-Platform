@@ -66,6 +66,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[domain-monitor](https://github.com/nwesterhausen/domain-monitor)**   [![GitHub stars](https://img.shields.io/github/stars/nwesterhausen/domain-monitor?style=social&color=white)](https://github.com/nwesterhausen/domain-monitor/stargazers)
   Self-hosted WHOIS monitoring server that tracks registration changes and expiration dates for specified domains with efficient caching to respect WHOIS rate limits.
 
+- **[SiteWatcher](https://github.com/NikKurkov/sitewatcher)**   [![GitHub stars](https://img.shields.io/github/stars/NikKurkov/sitewatcher?style=social&color=white)](https://github.com/NikKurkov/sitewatcher/stargazers)
+  Open-source, self-hosted monitoring for domain registration expiry, TLS certificates, and changes to resolved IP addresses.
+
 - **[ct-exposer & Certificate Transparency tools](https://github.com/chris408/ct-exposer)**   [![GitHub stars](https://img.shields.io/github/stars/chris408/ct-exposer?style=social&color=white)](https://github.com/chris408/ct-exposer/stargazers)
   OSINT tools that discover subdomains by searching public Certificate Transparency logs (crt.sh and others).
 
